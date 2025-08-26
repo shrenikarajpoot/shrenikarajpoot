@@ -42,5 +42,5 @@ Currently, I don't have any blog posts published. Stay tuned for updates!
 
 ## Connect with Me
 
-<p><a target="_blank" href="(https://www.linkedin.com/in/shrenika-rajpoot/)" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
+<p><a target="_blank" href="https://www.linkedin.com/in/shrenika-rajpoot/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/shrenikarajput/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a></p
